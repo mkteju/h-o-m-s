@@ -1,0 +1,46 @@
+<html>
+<head>
+<title> table</title>
+</head>
+<body>
+<table border="2">
+<tr>
+<th>name
+<th>value
+</tr>
+<tr>
+<td>name:</td>
+<td><input type="text" min="5" name="text" placeholder="entername"></td></tr>
+<tr>
+<td>sex:</td>
+<td><input type="radio" value="gender"checked>male
+<input type="radio" value="gender">female</td></tr>
+<tr>
+<td>eye color:</td>
+<td><select>
+<option name="gray">gray
+<option name="brown">brown
+<option name="blue">blue
+</select></td></tr>
+<tr>
+<td>check that all aplly:</td>
+<td><input type="checkbox" name="check that all aplly">over 6 feet tall</br>
+<input type="checkbox" name="check that all aplly">over 200 pound </td></tr>
+</tr>
+<tr>
+	<td>Hobbies:</td><td><input type="checkbox" name="hobby">Over 6 feet tall<br/>
+	<input type="checkbox" name="hobby">Over 200 pounds </td></tr>
+	<tr>
+	<td colspan="2">Experience:<br/></td></tr>
+	<tr>
+	<td><textarea name="exp" rows="4" cols="30"></textarea></td>
+	</tr>
+	</fieldset>
+	<tr>
+	<td colspan="2" align="center"><input type="submit" value="Enter my information" src="1.html">
+	</td>
+	</tr>
+	</table>
+	</body>
+</html>
+

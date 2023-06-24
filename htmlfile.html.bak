@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link rel="style sheet"type="css"href="class.css">
+</head>
+<body>
+<p class="red">this is red</p>
+<p class="thick">this is thick</p>
+<p class="green"> this is green<p>
+<p> this is paragraph </p>
+</body>
+</html>

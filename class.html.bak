@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+<head>
+<title> html extrenal css<?title>
+<link rel="sty;e sheet" type="css" href="pro2uni1.css">
+</head>
+<body>
+<p class="red">this is red<?p>
+<p class="thick"> this is thick</p>
+<p class="green"> this is green</p>
+</body>
+</html>

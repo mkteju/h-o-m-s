@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>bill</title>
+</head>
+<body>
+<form>
+name:
+<input type="text" align="center"></br>
+ph no:
+<input type="number" align="center"></br>
+bill no:
+<input type="radio" name="inword">
+<input type="radio" name="outword"></br>
+dilivered at:
+<textarea rows="4" cols="30"></textarea>
+</form>
+</body>
+</html>
+

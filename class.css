@@ -1,0 +1,14 @@
+.red{
+color:red;
+text-align:center;
+font-size:50px;
+}
+.thick{
+	font-size:20px;
+	font-weight:50px;
+}
+.green{
+	color:green;
+	font-style:italic;
+	font-size:30px;
+}

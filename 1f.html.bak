@@ -1,0 +1,22 @@
+<html>
+<head>
+<title> table</title>
+</head>
+<body>
+<table border="1" height="200",width="200">
+<tr>
+<td align="center" cellpadding="10"cellspacing="10">
+<th>col.1</th>
+<th>col.2</th>
+</tr>
+<tr align="center">
+<td bgcolor="blue">a
+<td>c</td>
+</tr>
+<tr>
+<td>b</td>
+<td>d</td>
+</tr>
+</table>
+</body>
+</html>

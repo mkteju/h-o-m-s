@@ -1,0 +1,18 @@
+<html>
+<body.
+</table border="1">
+<tr>
+<td>from:
+<td><input type="text"><bR>
+</tr>
+<td>to:
+<td><input type="text"><br>
+</tr>
+<td colspan="2" align="center">
+<input type="save" value="save"> <br>
+<input type="cancel" value="cancel"><br>
+</tr>
+</table>
+</body>
+</head>
+</html>

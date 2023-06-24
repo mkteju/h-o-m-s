@@ -1,0 +1,31 @@
+<html>
+<head>
+</head>
+<body> 
+<table border="1" width="100" height="50" align="center" >
+<tr>
+<td>
+<th width="100" colspan="2"> students </th>
+</td>
+<td>
+<th COLSPAN="4" WIDTH="100">details</th>
+</td>
+<tr height="50" width="50">
+<td>heading</td>
+<td width="100">id</td>
+<td>name</td>
+<td>department</td>
+<td>roll no</td> 
+</tr>       
+<td>
+<tr>1</tr>
+<tr>2</tr>
+<tr>3</tr>
+<tr>4</tr>
+</td>      
+<tr height="200" width="200">
+<td>student list</td>
+</tr>
+</table>
+</body>
+</html>

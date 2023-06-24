@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+<head>
+<frameset cols="*,*,*">
+<frame name="f1" src="od.html">
+<frameset rows="*,*">
+<frame name="f2">
+<frame name="f3">
+</frameset>
+<frame name="f4" src="i.html">
+</head>
+</html>

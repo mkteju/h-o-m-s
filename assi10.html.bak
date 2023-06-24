@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<title> details</title>
+</head>
+<body bgcolor="yellow">
+<ol type="a">
+<li>own house
+</ol>
+<ol type="i">
+<li>1200sq.feet livingarea
+<li>separate bungalow
+</ol>
+<br>
+<ol type="a" start="2">
+<li>car
+</ol>
+<ol type="i">
+<li>maruti 800car
+<li>regi.number:gj-1-he-5136
+</ol>
+<br>
+<ol type="a" start="3">
+<li>farm
+</ol>
+<br>
+<ol type="i">
+<li>coconut groves
+<li>35 areas
+</ol>
+</body>
+</html>

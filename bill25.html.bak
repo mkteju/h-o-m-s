@@ -1,0 +1,16 @@
+<html>
+<heda>
+<title>bill</title>
+</head>
+<body>
+<formset>
+name:
+<input type="text" align="center">
+ph no:
+<input type="number" min="0" max="9" align="center">
+bill type:
+<input type="radio" value="inward" align="center">
+<input type="radio" value="outword" align="center">
+</formset>
+</body>
+</html>

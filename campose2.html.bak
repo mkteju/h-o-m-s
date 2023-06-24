@@ -1,0 +1,12 @@
+<html>
+<body>
+<form method="post">
+from:<input type="text"><br></br>
+to:<input type="text"><br></br>
+subject:<textarea cols="10" rows="5"><br>
+</text area>
+<input type="submit" value="save">
+<input type="reset" value="cancel">
+</form>
+</body>
+</html>

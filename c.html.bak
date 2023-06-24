@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+<head>
+<title>frame</title>
+</head>
+<frameset cols="*,*">
+<frame name="f1">
+<frame name="f2">
+</frameset>
+</html>

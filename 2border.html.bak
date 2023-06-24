@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+<style>
+h1[
+border-style:dotted;
+}
+div{
+border-style:outset;
+}
+p.example{
+border:3pxsolid;
+border-bottom-color:green;
+border-top-color:yellow;
+border-left-color:red;
+border-right-color:blue;
+}
+p.example2{
+border-bottom:6pxsolidred;
+background-color:lightgrey;
+}
+<body>
+<h1>a heading with a doted border </h1>
+<div>a div element witha a dotted border<div>
+<p class="example1">paragraph tag<p>
+<p class="example2">paragraph tag with bottom border<p>
+</body>
+</html>
